@@ -1,2 +1,5 @@
 # hello_world
-hello world tutorial.
+
+Hi There,
+
+i am following the tutorial so here is my first commit!
